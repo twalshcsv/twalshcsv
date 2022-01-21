@@ -6,15 +6,12 @@ I specialize in test and process automation.
 ## :chart_with_upwards_trend: GitHub Stats
 ### Work
 <a href="https://github.com/twalshcsv/twalshcsv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=twalshcsv&show_icons=true&theme=merko" alt="Troy's Work GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=twalshcsv&show_icons=true" alt="Troy's Work GitHub Stats" />
 </a><br/>
-<a href="https://github.com/twalshcsv/twalshcsv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twalshcsv&layout=compact" />
-</a>
 
 ### Personal
 <a href="https://github.com/TroyWalshProf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TroyWalshProf&show_icons=true&theme=merko" alt="Troy's Work GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TroyWalshProf&show_icons=true" alt="Troy's Work GitHub Stats" />
 </a><br/>
 <a href="https://github.com/twalshcsv/twalshcsv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroyWalshProf&layout=compact" />
