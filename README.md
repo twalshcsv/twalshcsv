@@ -23,7 +23,7 @@ I specialize in test and process automation.
 
 ## :speaking_head: Public Speaking
 [![Selenium: The Weird Parts](https://img.youtube.com/vi/cHlRvWUycOE/0.jpg)](https://www.youtube.com/watch?v=cHlRvWUycOE)
-[![Using Axe to Add Accessibility Checks to Your Existing Selenium Tests](https://img.youtube.com/vi/W7Qw_dNOobc/0.jpg)](https://www.youtube.com/watch?v=jz2DO2cLbj4)
+[![Using Axe to Add Accessibility Checks to Your Existing Selenium Tests](https://img.youtube.com/vi/jz2DO2cLbj4/0.jpg)](https://www.youtube.com/watch?v=jz2DO2cLbj4)
 [![Testing Everywhere with .Net Core](https://img.youtube.com/vi/W7Qw_dNOobc/0.jpg)](https://www.youtube.com/watch?v=W7Qw_dNOobc)
 [![Wait, That’s Not Right](https://img.youtube.com/vi/EiFQ5vVnXqA/0.jpg)](https://www.youtube.com/watch?v=EiFQ5vVnXqA)
 [![Opportunity Cost of Automation in Software Development](https://img.youtube.com/vi/QoH-peKtB5Y/0.jpg)](https://www.youtube.com/watch?v=QoH-peKtB5Y)
